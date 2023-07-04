@@ -1,0 +1,5 @@
+Name: Newline Pipe
+Description: Insert Newline And Then Magrittr Pipe
+Binding:insertNewlinePipe
+Interactive: false
+
